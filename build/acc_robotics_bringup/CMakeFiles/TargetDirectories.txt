@@ -1,9 +1,0 @@
-/home/admin1/acc_robotics_ws/build/acc_robotics_bringup/CMakeFiles/uninstall.dir
-/home/admin1/acc_robotics_ws/build/acc_robotics_bringup/CMakeFiles/acc_robotics_bringup_uninstall.dir
-/home/admin1/acc_robotics_ws/build/acc_robotics_bringup/CMakeFiles/test.dir
-/home/admin1/acc_robotics_ws/build/acc_robotics_bringup/CMakeFiles/edit_cache.dir
-/home/admin1/acc_robotics_ws/build/acc_robotics_bringup/CMakeFiles/rebuild_cache.dir
-/home/admin1/acc_robotics_ws/build/acc_robotics_bringup/CMakeFiles/list_install_components.dir
-/home/admin1/acc_robotics_ws/build/acc_robotics_bringup/CMakeFiles/install.dir
-/home/admin1/acc_robotics_ws/build/acc_robotics_bringup/CMakeFiles/install/local.dir
-/home/admin1/acc_robotics_ws/build/acc_robotics_bringup/CMakeFiles/install/strip.dir
