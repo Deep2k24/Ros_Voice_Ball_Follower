@@ -1,0 +1,43 @@
+[0.021s] Invoking command in '/home/admin1/acc_robotics_ws/build/acc_robotics_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/admin1/acc_robotics_ws/install/acc_waypoint_navigation:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/admin1/acc_robotics_ws/src/acc_robotics_bringup -DCMAKE_INSTALL_PREFIX=/home/admin1/acc_robotics_ws/install/acc_robotics_bringup
+[0.068s] -- The C compiler identification is GNU 13.3.0
+[0.121s] -- The CXX compiler identification is GNU 13.3.0
+[0.138s] -- Detecting C compiler ABI info
+[0.217s] -- Detecting C compiler ABI info - done
+[0.236s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.237s] -- Detecting C compile features
+[0.237s] -- Detecting C compile features - done
+[0.248s] -- Detecting CXX compiler ABI info
+[0.347s] -- Detecting CXX compiler ABI info - done
+[0.356s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.357s] -- Detecting CXX compile features
+[0.357s] -- Detecting CXX compile features - done
+[0.361s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.512s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.720s] -- Configuring done (0.7s)
+[0.723s] -- Generating done (0.0s)
+[0.725s] -- Build files have been written to: /home/admin1/acc_robotics_ws/build/acc_robotics_bringup
+[0.729s] Invoked command in '/home/admin1/acc_robotics_ws/build/acc_robotics_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/admin1/acc_robotics_ws/install/acc_waypoint_navigation:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/admin1/acc_robotics_ws/src/acc_robotics_bringup -DCMAKE_INSTALL_PREFIX=/home/admin1/acc_robotics_ws/install/acc_robotics_bringup
+[0.730s] Invoking command in '/home/admin1/acc_robotics_ws/build/acc_robotics_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/admin1/acc_robotics_ws/install/acc_waypoint_navigation:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/admin1/acc_robotics_ws/build/acc_robotics_bringup -- -j12 -l12
+[0.763s] Invoked command in '/home/admin1/acc_robotics_ws/build/acc_robotics_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/admin1/acc_robotics_ws/install/acc_waypoint_navigation:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/admin1/acc_robotics_ws/build/acc_robotics_bringup -- -j12 -l12
+[0.772s] Invoking command in '/home/admin1/acc_robotics_ws/build/acc_robotics_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/admin1/acc_robotics_ws/install/acc_waypoint_navigation:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/admin1/acc_robotics_ws/build/acc_robotics_bringup
+[0.780s] -- Install configuration: ""
+[0.780s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_bringup/share/acc_robotics_bringup//launch
+[0.780s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_bringup/share/acc_robotics_bringup//launch/my_robot_gazebo.launch.xml
+[0.781s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_bringup/share/acc_robotics_bringup//config
+[0.781s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_bringup/share/acc_robotics_bringup//config/gazebo_bridge.yaml
+[0.781s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_bringup/share/ament_index/resource_index/package_run_dependencies/acc_robotics_bringup
+[0.781s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_bringup/share/ament_index/resource_index/parent_prefix_path/acc_robotics_bringup
+[0.781s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_bringup/share/acc_robotics_bringup/environment/ament_prefix_path.sh
+[0.781s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_bringup/share/acc_robotics_bringup/environment/ament_prefix_path.dsv
+[0.782s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_bringup/share/acc_robotics_bringup/environment/path.sh
+[0.782s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_bringup/share/acc_robotics_bringup/environment/path.dsv
+[0.782s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_bringup/share/acc_robotics_bringup/local_setup.bash
+[0.782s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_bringup/share/acc_robotics_bringup/local_setup.sh
+[0.782s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_bringup/share/acc_robotics_bringup/local_setup.zsh
+[0.782s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_bringup/share/acc_robotics_bringup/local_setup.dsv
+[0.782s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_bringup/share/acc_robotics_bringup/package.dsv
+[0.782s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_bringup/share/ament_index/resource_index/packages/acc_robotics_bringup
+[0.783s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_bringup/share/acc_robotics_bringup/cmake/acc_robotics_bringupConfig.cmake
+[0.783s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_bringup/share/acc_robotics_bringup/cmake/acc_robotics_bringupConfig-version.cmake
+[0.784s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_bringup/share/acc_robotics_bringup/package.xml
+[0.784s] Invoked command in '/home/admin1/acc_robotics_ws/build/acc_robotics_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/admin1/acc_robotics_ws/install/acc_waypoint_navigation:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/admin1/acc_robotics_ws/build/acc_robotics_bringup

@@ -1,0 +1,2 @@
+[console_scripts]
+waypoint_nav = acc_waypoint_navigation.waypoint_nav:main

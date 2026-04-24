@@ -1,0 +1,10 @@
+/home/admin1/acc_robotics_ws/build/acc_robotics_controller/CMakeFiles/uninstall.dir
+/home/admin1/acc_robotics_ws/build/acc_robotics_controller/CMakeFiles/acc_robotics_controller_uninstall.dir
+/home/admin1/acc_robotics_ws/build/acc_robotics_controller/CMakeFiles/controller.dir
+/home/admin1/acc_robotics_ws/build/acc_robotics_controller/CMakeFiles/test.dir
+/home/admin1/acc_robotics_ws/build/acc_robotics_controller/CMakeFiles/edit_cache.dir
+/home/admin1/acc_robotics_ws/build/acc_robotics_controller/CMakeFiles/rebuild_cache.dir
+/home/admin1/acc_robotics_ws/build/acc_robotics_controller/CMakeFiles/list_install_components.dir
+/home/admin1/acc_robotics_ws/build/acc_robotics_controller/CMakeFiles/install.dir
+/home/admin1/acc_robotics_ws/build/acc_robotics_controller/CMakeFiles/install/local.dir
+/home/admin1/acc_robotics_ws/build/acc_robotics_controller/CMakeFiles/install/strip.dir

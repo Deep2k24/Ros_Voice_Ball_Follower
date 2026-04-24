@@ -1,0 +1,55 @@
+[0.016s] Invoking command in '/home/admin1/acc_robotics_ws/build/acc_robotics_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/admin1/acc_robotics_ws/install/acc_waypoint_navigation:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/admin1/acc_robotics_ws/src/acc_robotics_controller -DCMAKE_INSTALL_PREFIX=/home/admin1/acc_robotics_ws/install/acc_robotics_controller
+[0.061s] -- The C compiler identification is GNU 13.3.0
+[0.113s] -- The CXX compiler identification is GNU 13.3.0
+[0.127s] -- Detecting C compiler ABI info
+[0.203s] -- Detecting C compiler ABI info - done
+[0.213s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.213s] -- Detecting C compile features
+[0.214s] -- Detecting C compile features - done
+[0.223s] -- Detecting CXX compiler ABI info
+[0.315s] -- Detecting CXX compiler ABI info - done
+[0.324s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.324s] -- Detecting CXX compile features
+[0.325s] -- Detecting CXX compile features - done
+[0.328s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.481s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.631s] -- Found rclcpp: 28.1.16 (/opt/ros/jazzy/share/rclcpp/cmake)
+[0.686s] -- Found rosidl_generator_c: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.704s] -- Found rosidl_generator_cpp: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.727s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.752s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.850s] -- Found rmw_implementation_cmake: 7.3.3 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[0.854s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[0.933s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[0.953s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[0.976s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.062s] -- Found geometry_msgs: 5.3.6 (/opt/ros/jazzy/share/geometry_msgs/cmake)
+[1.180s] -- Configuring done (1.2s)
+[1.189s] -- Generating done (0.0s)
+[1.192s] -- Build files have been written to: /home/admin1/acc_robotics_ws/build/acc_robotics_controller
+[1.200s] Invoked command in '/home/admin1/acc_robotics_ws/build/acc_robotics_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/admin1/acc_robotics_ws/install/acc_waypoint_navigation:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/admin1/acc_robotics_ws/src/acc_robotics_controller -DCMAKE_INSTALL_PREFIX=/home/admin1/acc_robotics_ws/install/acc_robotics_controller
+[1.201s] Invoking command in '/home/admin1/acc_robotics_ws/build/acc_robotics_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/admin1/acc_robotics_ws/install/acc_waypoint_navigation:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/admin1/acc_robotics_ws/build/acc_robotics_controller -- -j12 -l12
+[1.242s] [ 50%] [32mBuilding CXX object CMakeFiles/controller.dir/src/controller.cpp.o[0m
+[7.881s] [100%] [32m[1mLinking CXX executable controller[0m
+[8.093s] [100%] Built target controller
+[8.103s] Invoked command in '/home/admin1/acc_robotics_ws/build/acc_robotics_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/admin1/acc_robotics_ws/install/acc_waypoint_navigation:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/admin1/acc_robotics_ws/build/acc_robotics_controller -- -j12 -l12
+[8.104s] Invoking command in '/home/admin1/acc_robotics_ws/build/acc_robotics_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/admin1/acc_robotics_ws/install/acc_waypoint_navigation:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/admin1/acc_robotics_ws/build/acc_robotics_controller
+[8.111s] -- Install configuration: ""
+[8.112s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_controller/lib/acc_robotics_controller/controller
+[8.115s] -- Set non-toolchain portion of runtime path of "/home/admin1/acc_robotics_ws/install/acc_robotics_controller/lib/acc_robotics_controller/controller" to ""
+[8.115s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_controller/share/ament_index/resource_index/package_run_dependencies/acc_robotics_controller
+[8.115s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_controller/share/ament_index/resource_index/parent_prefix_path/acc_robotics_controller
+[8.115s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_controller/share/acc_robotics_controller/environment/ament_prefix_path.sh
+[8.115s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_controller/share/acc_robotics_controller/environment/ament_prefix_path.dsv
+[8.115s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_controller/share/acc_robotics_controller/environment/path.sh
+[8.115s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_controller/share/acc_robotics_controller/environment/path.dsv
+[8.116s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_controller/share/acc_robotics_controller/local_setup.bash
+[8.116s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_controller/share/acc_robotics_controller/local_setup.sh
+[8.116s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_controller/share/acc_robotics_controller/local_setup.zsh
+[8.116s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_controller/share/acc_robotics_controller/local_setup.dsv
+[8.116s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_controller/share/acc_robotics_controller/package.dsv
+[8.116s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_controller/share/ament_index/resource_index/packages/acc_robotics_controller
+[8.116s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_controller/share/acc_robotics_controller/cmake/acc_robotics_controllerConfig.cmake
+[8.116s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_controller/share/acc_robotics_controller/cmake/acc_robotics_controllerConfig-version.cmake
+[8.116s] -- Installing: /home/admin1/acc_robotics_ws/install/acc_robotics_controller/share/acc_robotics_controller/package.xml
+[8.118s] Invoked command in '/home/admin1/acc_robotics_ws/build/acc_robotics_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/admin1/acc_robotics_ws/install/acc_waypoint_navigation:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/admin1/acc_robotics_ws/build/acc_robotics_controller
